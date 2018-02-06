@@ -38,7 +38,7 @@ Crear una carpeta para el proyecto.
 
 Entra en la carpeta recién creada y ejecuta el comando:
 
-    git clone URL .
+    git clone https://github.com/gorkau/Taller-refactorizacion-PHP.git .
     
 No olvides poner el punto del final.
 Si no lo pones te creará una subcarpeta.
