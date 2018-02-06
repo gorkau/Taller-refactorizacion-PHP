@@ -1,0 +1,21 @@
+{
+    "name": "gorka/refactorizacion",
+    "require": {
+        "phpunit/phpunit": "^6.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.0"
+    },
+    "authors": [
+        {
+            "name": "Gorka",
+            "email": "gorkau@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src/"
+            ]
+    }
+
+}
