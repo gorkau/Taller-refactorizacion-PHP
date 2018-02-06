@@ -1,16 +1,26 @@
+# ¿Qué es esto?
+
+Aquí tienes la información para el Taller Online de Refactorización en PHP (https://github.com/gorkau/Taller-refactorizacion-PHP/blob/master/Readme.md).
+
+# Requisitos e información
+
+El taller lo vamos a hacer usando el video chat de Google.
+Vamos a vernos todos las caras así que asegúrate de que funcionan bien tus altavoces, micrófono y webcam.
+
+Se recomienda usar Chrome (o alguno de sus derivados como Chromium).
+
 # Instalación
 
-## Requisitos
-
-Es necesario tener instalado:
+Es necesario tener en tu sistema:
 
 * Composer (https://getcomposer.org/).
 * PHP 7.0 o superior.
 * Saber manejar la línea de comandos (Bash, Windows, PowerShell o lo que uses).
 
-### ¿Y si...
 
-#### tengo una versión más antigua de PHP?
+## ¿Y si...
+
+### tengo una versión más antigua de PHP?
 
 Si tienes una versión antigua de PHP es posible que no funcione correctamente Composer.
 Tienes dos opciones:
